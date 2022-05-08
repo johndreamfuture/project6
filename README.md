@@ -21,8 +21,8 @@ I am doing job trying to get the books from the third api which is in developing
 
 ### `main technoloy`
 
-React
-async axios function
+React.\
+async axios function.
 
 
 
